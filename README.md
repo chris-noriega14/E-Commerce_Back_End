@@ -6,7 +6,7 @@ https://github.com/chris-noriega14/E-Commerce_Back_End
 
 ## Video of Deployed Application: 
 
-https://github.com/chris-noriega14/E-Commerce_Back_End/blob/main/walkthrough-video.mp4?raw=true
+https://github.com/chris-noriega14/E-Commerce_Back_End/blob/master/walkthrough-video.mp4?raw=true
 
 ## Description: 
 
