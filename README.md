@@ -22,4 +22,4 @@ The full list of user capabilities/routes are listed below:
 
 ## Screenshot of Routes Tested:
 
-![main] (https://github.com/chris-noriega14/E-Commerce_Back_End/blob/master/screenshot-testing-routes.png)
+![master] (https://github.com/chris-noriega14/E-Commerce_Back_End/blob/master/screenshot-testing-routes.png)
