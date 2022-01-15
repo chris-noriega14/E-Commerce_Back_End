@@ -19,3 +19,7 @@ The full list of user capabilities/routes are listed below:
 * POST products/categories/tags by new ID
 * PUT products/categories/tags by ID
 * DELETE products/categories/tags by ID
+
+## Screenshot of Routes Tested:
+
+![main] (https://github.com/chris-noriega14/E-Commerce_Back_End/blob/master/screenshot-testing-routes.png)
